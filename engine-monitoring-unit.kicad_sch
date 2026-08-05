@@ -4889,13 +4889,37 @@
 		)
 		(uuid "14ea8ab7-162e-40ef-89ce-c6a069f3001a")
 	)
+	(text "DONE\n"
+		(exclude_from_sim no)
+		(at 60.325 22.225 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "26801c6e-92d0-4274-892e-52e8ea4cded7")
+	)
+	(text "DONE\n"
+		(exclude_from_sim no)
+		(at 65.405 236.855 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "28624c03-c0d3-41ca-b0f4-3333392fd409")
+	)
 	(text "Battery Voltage "
 		(exclude_from_sim no)
 		(at 46.101 235.839 0)
 		(effects
 			(font
 				(size 2.54 2.54)
-				(thickness 0.4064)
+				(thickness 0.508)
 				(bold yes)
 			)
 		)
@@ -4912,6 +4936,16 @@
 			)
 		)
 		(uuid "4ba5dd1e-a11d-4c9e-9b3b-05c669a543b2")
+	)
+	(text "CAPS 0603/16v\nHSE - 8MHz\nLSE - 32.768KHz\n"
+		(exclude_from_sim no)
+		(at 392.43 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "55728c00-33f1-4a93-a309-b79f1f8b7dd2")
 	)
 	(text "SWD Connector\n"
 		(exclude_from_sim no)
@@ -4973,6 +5007,66 @@
 		)
 		(uuid "77406747-5957-4756-96e5-00daf7a876a8")
 	)
+	(text "DONE\n"
+		(exclude_from_sim no)
+		(at 222.885 22.225 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "79534264-d975-4aa9-96ec-f0447bcc840a")
+	)
+	(text "DONE\n"
+		(exclude_from_sim no)
+		(at 392.43 24.765 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "7f7b9446-ad35-4e2b-ac16-00d212ac8793")
+	)
+	(text "0603"
+		(exclude_from_sim no)
+		(at 307.34 33.655 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "94c68ca1-2c09-4b43-8349-e5ade1f5242d")
+	)
+	(text "0603"
+		(exclude_from_sim no)
+		(at 276.86 33.655 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "98f152b7-e0fc-407e-b1d8-020debf3c73d")
+	)
+	(text "DONE\n"
+		(exclude_from_sim no)
+		(at 66.04 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "9c227962-8d2a-4adb-ab3d-7a50f9cadc7c")
+	)
 	(text "Oscillators"
 		(exclude_from_sim no)
 		(at 371.475 83.185 0)
@@ -4985,6 +5079,42 @@
 		)
 		(uuid "9e3dbe3c-75df-4bf2-8b81-9455fa194728")
 	)
+	(text "DONE\n"
+		(exclude_from_sim no)
+		(at 307.975 23.495 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "a302a0a4-99ba-4d01-ae9c-ea5b43ade237")
+	)
+	(text "DONE\n"
+		(exclude_from_sim no)
+		(at 195.58 83.185 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "a85902db-32bd-4bd2-828b-eb905aa80508")
+	)
+	(text "0603"
+		(exclude_from_sim no)
+		(at 215.9 31.115 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "b6a85197-37e6-4760-9317-7ce5e667ee82")
+	)
 	(text "USER Button"
 		(exclude_from_sim no)
 		(at 44.45 20.955 0)
@@ -4996,6 +5126,18 @@
 			)
 		)
 		(uuid "b6b1689a-4ccd-4603-8000-8e397bba3ffb")
+	)
+	(text "0603"
+		(exclude_from_sim no)
+		(at 134.62 43.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "ba6f8204-335a-4f15-9058-9b8a8aecc5bb")
 	)
 	(text "BOOT Mode\n"
 		(exclude_from_sim no)
@@ -5021,6 +5163,18 @@
 		)
 		(uuid "c87d31e6-b048-4213-9b4c-6c1fd64a47bc")
 	)
+	(text "DONE\n"
+		(exclude_from_sim no)
+		(at 148.59 174.625 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "caba742f-ac3b-4e63-925b-cbb573176d97")
+	)
 	(text "Wheel Speed\n"
 		(exclude_from_sim no)
 		(at 131.445 173.99 0)
@@ -5032,6 +5186,54 @@
 			)
 		)
 		(uuid "cb35eefa-e766-4c6e-9ca1-f7b4d95eb1a8")
+	)
+	(text "0603"
+		(exclude_from_sim no)
+		(at 106.68 45.085 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "cf7848e4-2386-4634-b290-14b29b121fe8")
+	)
+	(text "DONE\n"
+		(exclude_from_sim no)
+		(at 386.08 84.455 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "d39b3387-db68-4bf3-a9fe-3356cd6e09a3")
+	)
+	(text "DONE\n"
+		(exclude_from_sim no)
+		(at 293.37 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "dc6a464a-fb54-44e4-8c57-1baf078b69c9")
+	)
+	(text "DONE\n"
+		(exclude_from_sim no)
+		(at 64.135 61.595 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "e01ed25c-1fa5-4377-ae95-34ffb1630e58")
 	)
 	(text "MCU Block"
 		(exclude_from_sim no)
@@ -5045,6 +5247,18 @@
 		)
 		(uuid "ebde1ad3-c414-4ffc-822f-1d2f2588810b")
 	)
+	(text "DONE\n"
+		(exclude_from_sim no)
+		(at 126.365 20.955 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "ed278725-340a-4d73-bbd3-7c3e74267d85")
+	)
 	(text "RESET Button"
 		(exclude_from_sim no)
 		(at 46.99 60.96 0)
@@ -5056,6 +5270,18 @@
 			)
 		)
 		(uuid "fa9b7059-3287-442f-9554-0635ca0e17a1")
+	)
+	(text "DONE\n"
+		(exclude_from_sim no)
+		(at 74.93 174.625 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "fe3924af-4aaa-4222-814f-1f26a9d6b653")
 	)
 	(junction
 		(at 41.275 198.12)
@@ -5070,10 +5296,10 @@
 		(uuid "0ba9b35e-447f-4291-ba96-3c679b11402b")
 	)
 	(junction
-		(at 185.42 50.165)
+		(at 208.915 50.165)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "10e60848-a1d0-49e9-bc6f-e34a8e48d191")
+		(uuid "0dc61f72-1381-407c-a83e-100a2d5f26ca")
 	)
 	(junction
 		(at 195.58 35.56)
@@ -5118,6 +5344,12 @@
 		(uuid "2e6ad559-af26-4567-a1b3-1ec0f3114548")
 	)
 	(junction
+		(at 226.695 104.775)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "36567323-1f47-47ac-9307-ec23c2c47794")
+	)
+	(junction
 		(at 153.035 202.565)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5128,6 +5360,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3b99f7e3-7dd5-404e-959c-e469846ea93b")
+	)
+	(junction
+		(at 208.915 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3d23ce30-f9db-45b2-ac8f-1483c1c38d85")
 	)
 	(junction
 		(at 124.46 201.93)
@@ -5146,6 +5384,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "57b2556c-47bf-49a5-afb4-99e7267092b0")
+	)
+	(junction
+		(at 182.88 50.165)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "585daa0b-2347-4ab0-ba41-e2ffcf7585a4")
 	)
 	(junction
 		(at 357.505 222.885)
@@ -5268,16 +5512,16 @@
 		(uuid "c31ab89d-22ed-41a5-9b00-05438b6f10c5")
 	)
 	(junction
+		(at 278.765 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c638eb66-6981-47dc-916e-c104ac668beb")
+	)
+	(junction
 		(at 359.41 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cb0babfb-a9f6-4288-9531-075a5cdf61c5")
-	)
-	(junction
-		(at 205.105 50.165)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "daef5e61-69df-4560-b0a6-2918eb890f94")
 	)
 	(junction
 		(at 123.19 105.41)
@@ -5315,6 +5559,112 @@
 		(color 0 0 0 0)
 		(uuid "fd7e8a70-b172-47a2-867a-09e4b27a662b")
 	)
+	(no_connect
+		(at 294.005 159.385)
+		(uuid "166a57bf-42f5-454b-a5d1-dcf2bcfbb85b")
+	)
+	(no_connect
+		(at 294.005 136.525)
+		(uuid "2474a7f7-9dfa-42e9-bd72-fac7ce7040a2")
+	)
+	(no_connect
+		(at 294.005 151.765)
+		(uuid "2b075ff1-24e4-4ace-abc7-5b90b4cc5e26")
+	)
+	(no_connect
+		(at 294.005 131.445)
+		(uuid "2d8c5ad4-dee8-4cee-a262-3fc3ae1e6b44")
+	)
+	(no_connect
+		(at 258.445 139.065)
+		(uuid "588f44c3-f717-43f6-8acd-51d2a62844ea")
+	)
+	(no_connect
+		(at 258.445 179.705)
+		(uuid "596607ec-b3cb-4ded-84ad-4301e6f05509")
+	)
+	(no_connect
+		(at 294.005 128.905)
+		(uuid "5ea8e9f4-87a0-43ae-9adb-575c8f4222dc")
+	)
+	(no_connect
+		(at 258.445 177.165)
+		(uuid "66d94152-49c9-4d78-9d2a-64405e7484ad")
+	)
+	(no_connect
+		(at 258.445 174.625)
+		(uuid "684668ad-a96b-4a0e-9719-55ea1aba2be0")
+	)
+	(no_connect
+		(at 258.445 161.925)
+		(uuid "68484527-09f6-4a3c-b66d-be63c512947b")
+	)
+	(no_connect
+		(at 258.445 172.085)
+		(uuid "7ca69cb3-e7e7-4853-af70-449bb6704c46")
+	)
+	(no_connect
+		(at 258.445 156.845)
+		(uuid "824ef39c-c77d-4f87-a33c-deeaa7a4582d")
+	)
+	(no_connect
+		(at 258.445 169.545)
+		(uuid "912f2ffa-9f0c-442a-a6e9-4a0943faa7ed")
+	)
+	(no_connect
+		(at 258.445 184.785)
+		(uuid "917e1b91-38f4-411a-8f4c-03b7eeacac18")
+	)
+	(no_connect
+		(at 294.005 144.145)
+		(uuid "b4a8cede-b445-4d02-a1e8-7df45bb6d523")
+	)
+	(no_connect
+		(at 258.445 151.765)
+		(uuid "bcf4c4ba-ea77-42b8-bec8-9d96a71dac9c")
+	)
+	(no_connect
+		(at 258.445 159.385)
+		(uuid "c327e558-9518-4dad-b8ef-d974ff006e37")
+	)
+	(no_connect
+		(at 294.005 146.685)
+		(uuid "cb0a9d99-ea0b-4fb8-8e51-02a5c3638076")
+	)
+	(no_connect
+		(at 294.005 149.225)
+		(uuid "ccdddcd1-447f-46b0-826b-1189c672d29f")
+	)
+	(no_connect
+		(at 294.005 133.985)
+		(uuid "cd36b451-8214-4a29-b74f-dee1718ed5a1")
+	)
+	(no_connect
+		(at 294.005 141.605)
+		(uuid "cdde6d12-552c-401b-97da-e34abf0ee0f8")
+	)
+	(no_connect
+		(at 294.005 139.065)
+		(uuid "e6e3f907-e7b6-4e75-b520-dc558e457ec3")
+	)
+	(no_connect
+		(at 258.445 182.245)
+		(uuid "ee418a16-6403-4fc4-a958-33e3879201a8")
+	)
+	(no_connect
+		(at 258.445 167.005)
+		(uuid "ef5d147c-8b4f-4f1f-bab6-6b36c4afc4ef")
+	)
+	(wire
+		(pts
+			(xy 195.58 31.75) (xy 195.58 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00ac0160-007a-4362-a115-b701af6b8910")
+	)
 	(wire
 		(pts
 			(xy 287.02 37.465) (xy 292.735 37.465)
@@ -5344,6 +5694,16 @@
 			(type default)
 		)
 		(uuid "039fd307-a886-4b1e-aba2-586105a871df")
+	)
+	(wire
+		(pts
+			(xy 182.88 50.165) (xy 195.58 50.165)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03ed6664-cf25-4df1-ab43-220a3f93362c")
 	)
 	(wire
 		(pts
@@ -5394,6 +5754,26 @@
 			(type default)
 		)
 		(uuid "0834c7a4-3a61-4827-890b-61d18ef17d26")
+	)
+	(wire
+		(pts
+			(xy 208.915 35.56) (xy 222.25 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b6f4a0b-bd95-486f-ae02-a653fe7ba90a")
+	)
+	(wire
+		(pts
+			(xy 208.915 50.165) (xy 222.25 50.165)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d3e9e63-dd56-4f9b-ad32-ad2e10b0854f")
 	)
 	(wire
 		(pts
@@ -5487,7 +5867,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 50.165) (xy 205.105 50.165)
+			(xy 195.58 50.165) (xy 208.915 50.165)
 		)
 		(stroke
 			(width 0)
@@ -5517,7 +5897,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 35.56) (xy 185.42 39.37)
+			(xy 182.88 35.56) (xy 182.88 39.37)
 		)
 		(stroke
 			(width 0)
@@ -5557,7 +5937,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.695 101.6) (xy 226.695 116.84)
+			(xy 226.695 101.6) (xy 226.695 104.775)
 		)
 		(stroke
 			(width 0)
@@ -5607,7 +5987,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.105 39.37) (xy 205.105 35.56)
+			(xy 208.915 39.37) (xy 208.915 35.56)
 		)
 		(stroke
 			(width 0)
@@ -5697,7 +6077,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 46.99) (xy 185.42 50.165)
+			(xy 182.88 46.99) (xy 182.88 50.165)
 		)
 		(stroke
 			(width 0)
@@ -5877,16 +6257,6 @@
 	)
 	(wire
 		(pts
-			(xy 294.005 101.6) (xy 300.355 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4175572f-e27e-4fc1-8d9f-eadacee4dac7")
-	)
-	(wire
-		(pts
 			(xy 153.035 205.105) (xy 153.035 202.565)
 		)
 		(stroke
@@ -5894,16 +6264,6 @@
 			(type default)
 		)
 		(uuid "421cf535-30ce-410a-8849-b63d6653c8d5")
-	)
-	(wire
-		(pts
-			(xy 195.58 50.165) (xy 185.42 50.165)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "43ee6b67-bfe6-4527-8918-7ccf5a45b246")
 	)
 	(wire
 		(pts
@@ -6097,7 +6457,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.105 46.99) (xy 205.105 50.165)
+			(xy 208.915 46.99) (xy 208.915 50.165)
 		)
 		(stroke
 			(width 0)
@@ -6134,16 +6494,6 @@
 			(type default)
 		)
 		(uuid "5c9d6226-09a7-4ce2-88b9-889a463989a7")
-	)
-	(wire
-		(pts
-			(xy 213.995 50.165) (xy 205.105 50.165)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5d6f65be-e315-42e6-9420-f8fd64dc6687")
 	)
 	(wire
 		(pts
@@ -6204,16 +6554,6 @@
 			(type default)
 		)
 		(uuid "61763b5b-b788-48a7-88d1-497b4a08f5d2")
-	)
-	(wire
-		(pts
-			(xy 281.305 101.6) (xy 286.385 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "627a278f-f4bd-40bc-9fdd-f2feb677d5de")
 	)
 	(wire
 		(pts
@@ -6417,6 +6757,16 @@
 	)
 	(wire
 		(pts
+			(xy 278.765 101.6) (xy 281.305 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7977ea3c-3a48-4062-acfd-3c12b5d5455d")
+	)
+	(wire
+		(pts
 			(xy 300.355 37.465) (xy 312.42 37.465)
 		)
 		(stroke
@@ -6427,7 +6777,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 35.56) (xy 185.42 35.56)
+			(xy 195.58 35.56) (xy 182.88 35.56)
 		)
 		(stroke
 			(width 0)
@@ -6524,6 +6874,16 @@
 			(type default)
 		)
 		(uuid "898888ac-a077-4308-ac7d-333ffaee5881")
+	)
+	(wire
+		(pts
+			(xy 226.695 104.775) (xy 226.695 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b4d5c4e-bd8a-444f-9162-4f855345026f")
 	)
 	(wire
 		(pts
@@ -6634,16 +6994,6 @@
 			(type default)
 		)
 		(uuid "9dc3774a-e80c-4ce5-b049-972169d518f1")
-	)
-	(wire
-		(pts
-			(xy 213.995 35.56) (xy 213.995 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9e2df893-41ac-41bc-9706-1ec71002d447")
 	)
 	(wire
 		(pts
@@ -6887,13 +7237,23 @@
 	)
 	(wire
 		(pts
-			(xy 205.105 35.56) (xy 195.58 35.56)
+			(xy 195.58 35.56) (xy 208.915 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "ba343939-d32a-478b-b089-f39f67c10bb9")
+	)
+	(wire
+		(pts
+			(xy 222.25 46.99) (xy 222.25 50.165)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba60578f-7faf-44dc-b000-8c0cf6e053be")
 	)
 	(wire
 		(pts
@@ -6994,16 +7354,6 @@
 			(type default)
 		)
 		(uuid "c002ec5a-7a3c-4c91-a439-ba1ae08cb394")
-	)
-	(wire
-		(pts
-			(xy 300.355 97.155) (xy 300.355 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c0592dfd-de6d-43fd-bd87-e9cedf09b74e")
 	)
 	(wire
 		(pts
@@ -7227,16 +7577,6 @@
 	)
 	(wire
 		(pts
-			(xy 213.995 46.99) (xy 213.995 50.165)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d5d0ce80-122e-4c1b-9815-2740d80b06dc")
-	)
-	(wire
-		(pts
 			(xy 172.085 202.565) (xy 153.035 202.565)
 		)
 		(stroke
@@ -7257,7 +7597,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 50.165) (xy 185.42 52.07)
+			(xy 182.88 50.165) (xy 182.88 52.07)
 		)
 		(stroke
 			(width 0)
@@ -7354,6 +7694,16 @@
 			(type default)
 		)
 		(uuid "eba10612-942d-43a4-a650-6111a8e9a234")
+	)
+	(wire
+		(pts
+			(xy 222.25 39.37) (xy 222.25 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eed04b55-4d5d-424d-b9cd-94c3ed7effcb")
 	)
 	(wire
 		(pts
@@ -7860,7 +8210,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "02bfaf48-30ca-408d-96a9-0ac1414064f2")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR028"
 			(at 39.37 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -7920,7 +8270,88 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR034")
+					(reference "#PWR028")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Socket")
+		(at 399.415 231.775 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "030bacad-9456-4140-a80c-3936545e3e98")
+		(property "Reference" "J6"
+			(at 399.542 236.4739 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Sense Wire"
+			(at 395.478 238.6329 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal"
+			(at 399.415 231.775 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 399.415 231.775 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 399.415 231.775 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "74802b32-93c2-4ca0-8a1f-45072ef4ae06")
+		)
+		(pin "2"
+			(uuid "9dc829bd-a858-498c-818d-1ac89658bbf2")
+		)
+		(instances
+			(project "engine-monitoring-unit"
+				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -7938,7 +8369,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "03d4e1e4-8778-4f5a-a184-0c167aab6b00")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR08"
 			(at 139.7 56.515 0)
 			(hide yes)
 			(show_name no)
@@ -7998,7 +8429,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR06")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -8016,7 +8447,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04c48a85-1982-4969-bf76-cf38072edaf4")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR025"
 			(at 388.62 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -8077,7 +8508,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR021")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -8095,7 +8526,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0bb2454e-a3e9-4426-b971-fd4eb96aa863")
-		(property "Reference" "SW2"
+		(property "Reference" "SW3"
 			(at 46.99 77.47 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8115,7 +8546,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 			(at 46.99 80.645 0)
 			(hide yes)
 			(show_name no)
@@ -8157,7 +8588,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "SW2")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -8175,7 +8606,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "108ab5ed-0cf3-4325-9111-954f9f5dc07f")
-		(property "Reference" "U2"
+		(property "Reference" "U1"
 			(at 166.37 94.615 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8335,7 +8766,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "U2")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -8353,7 +8784,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11abd010-2f32-4619-9b1f-4b1e9888b030")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR042"
 			(at 43.815 248.92 0)
 			(hide yes)
 			(show_name no)
@@ -8413,7 +8844,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR044")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -8431,7 +8862,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1366c1e5-2afc-4644-b532-8bb77552ada7")
-		(property "Reference" "C9"
+		(property "Reference" "C11"
 			(at 372.11 130.81 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8441,7 +8872,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "6.8pF"
 			(at 372.11 133.35 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8451,7 +8882,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 375.92 137.4648 0)
 			(hide yes)
 			(show_name no)
@@ -8493,7 +8924,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "C9")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -8511,7 +8942,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13a650d0-26a2-4af5-af38-61535ca5b3cc")
-		(property "Reference" "R9"
+		(property "Reference" "R8"
 			(at 41.91 130.8099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8533,7 +8964,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 37.592 132.08 90)
 			(hide yes)
 			(show_name no)
@@ -8575,7 +9006,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "R9")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -8593,7 +9024,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1628fa63-4690-4f47-86a6-1f2de18257a5")
-		(property "Reference" "R12"
+		(property "Reference" "R13"
 			(at 313.055 205.1049 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8615,7 +9046,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 308.737 206.375 90)
 			(hide yes)
 			(show_name no)
@@ -8657,7 +9088,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "R12")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -8674,7 +9105,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "180f394b-26c0-4f0c-9c17-08d747e032e1")
-		(property "Reference" "R2"
+		(property "Reference" "R3"
 			(at 105.4101 50.8 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8696,7 +9127,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 106.68 46.482 90)
 			(hide yes)
 			(show_name no)
@@ -8738,7 +9169,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "R2")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -8778,7 +9209,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal"
 			(at 26.035 201.295 0)
 			(hide yes)
 			(show_name no)
@@ -8839,7 +9270,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ac7c0ac-b082-4e26-befe-3d2fe3d85833")
-		(property "Reference" "R18"
+		(property "Reference" "R12"
 			(at 155.575 196.8501 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8903,7 +9334,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "R18")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -8920,7 +9351,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1c7db331-ba9d-404a-9bdd-1cb3ece14064")
-		(property "Reference" "U1"
+		(property "Reference" "U2"
 			(at 263.1283 198.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9126,7 +9557,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "U1")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -9155,7 +9586,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Conn_01x04_Pin"
+		(property "Value" "SW Debug"
 			(at 358.14 54.6101 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9166,7 +9597,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical"
 			(at 365.76 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -9232,7 +9663,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1fb7c05e-80b8-4a85-9f87-8bb2b367a789")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR012"
 			(at 36.195 76.835 0)
 			(hide yes)
 			(show_name no)
@@ -9292,7 +9723,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR02")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -9310,7 +9741,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "239817bf-29f9-4236-b11c-e4f57fd218aa")
-		(property "Reference" "C13"
+		(property "Reference" "C10"
 			(at 222.885 121.2849 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9332,7 +9763,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 220.6752 126.365 0)
 			(hide yes)
 			(show_name no)
@@ -9374,7 +9805,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "C13")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -9392,8 +9823,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "24d4f4e9-08bb-4d06-a59b-444d58793a8e")
-		(property "Reference" "C10"
-			(at 372.11 153.035 90)
+		(property "Reference" "C13"
+			(at 372.11 153.67 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9402,8 +9833,8 @@
 				)
 			)
 		)
-		(property "Value" "C"
-			(at 372.11 155.575 90)
+		(property "Value" "6.8pF"
+			(at 372.11 156.21 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9412,7 +9843,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 375.92 159.6898 0)
 			(hide yes)
 			(show_name no)
@@ -9454,85 +9885,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "C10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VBUS")
-		(at 213.995 35.56 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "27236e2d-b9d3-4b61-84da-c89b7ac5c013")
-		(property "Reference" "#PWR08"
-			(at 213.995 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+VREF"
-			(at 213.995 30.48 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 213.995 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 213.995 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 213.995 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7439421a-8d63-4f65-8752-44bb5cf3e679")
-		)
-		(instances
-			(project "engine-monitoring-unit"
-				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR08")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -9550,7 +9903,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b331946-030f-4632-a773-d50fbbbb1c0f")
-		(property "Reference" "R5"
+		(property "Reference" "R4"
 			(at 283.21 46.99 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9560,7 +9913,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1K"
 			(at 283.21 49.53 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9570,7 +9923,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 283.21 55.118 90)
 			(hide yes)
 			(show_name no)
@@ -9612,7 +9965,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "R5")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -9630,7 +9983,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d49718d-40d3-4c4e-a3e1-3536d32ca89b")
-		(property "Reference" "D1"
+		(property "Reference" "D2"
 			(at 298.1325 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9650,7 +10003,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 296.545 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -9703,7 +10056,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "D1")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -9721,7 +10074,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "33eb691b-30cc-4647-85b4-93a4ac8b2fcd")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR016"
 			(at 389.255 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -9782,7 +10135,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR018")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -9878,7 +10231,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "389f2744-5dee-4fe5-8e64-44bd3722b13b")
-		(property "Reference" "D4"
+		(property "Reference" "D5"
 			(at 376.555 216.535 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9962,7 +10315,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "D4")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -10062,7 +10415,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c9de030-9411-4844-b97b-4628a92bfbd5")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR06"
 			(at 267.97 52.705 0)
 			(hide yes)
 			(show_name no)
@@ -10122,87 +10475,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:L")
-		(at 290.195 101.6 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3d9227aa-be6c-4193-b4fb-9bd42a26daf8")
-		(property "Reference" "L1"
-			(at 290.195 95.885 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "L"
-			(at 290.195 98.425 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 290.195 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 290.195 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Inductor"
-			(at 290.195 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "18b3cf3c-6b85-4a16-aac0-203364d7f4f3")
-		)
-		(pin "1"
-			(uuid "e3127405-8beb-4a97-b8e6-20e2005a9fa4")
-		)
-		(instances
-			(project "engine-monitoring-unit"
-				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "L1")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -10220,7 +10493,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ef70c32-7bf6-48a6-a188-9d34a3501fdc")
-		(property "Reference" "C11"
+		(property "Reference" "C7"
 			(at 187.96 108.5849 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10242,7 +10515,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 185.1152 113.665 0)
 			(hide yes)
 			(show_name no)
@@ -10284,7 +10557,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "C11")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -10302,7 +10575,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "429c1665-0b23-4574-bdce-3f5ed0c110e0")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR04"
 			(at 349.885 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -10362,7 +10635,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR016")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -10380,7 +10653,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47aaf41d-4ecb-47c5-a7eb-37e8e58a8044")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR07"
 			(at 97.79 56.515 0)
 			(hide yes)
 			(show_name no)
@@ -10440,7 +10713,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR05")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -10458,7 +10731,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "498f4e23-db7a-44fb-acd3-e02102000cab")
-		(property "Reference" "R14"
+		(property "Reference" "R11"
 			(at 127 191.1349 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10480,7 +10753,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 122.682 192.405 90)
 			(hide yes)
 			(show_name no)
@@ -10522,7 +10795,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "R14")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -10539,7 +10812,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4e0e20cf-895e-4a9e-b658-8e7ea7299cdb")
-		(property "Reference" "Y3"
+		(property "Reference" "Y1"
 			(at 363.855 106.6799 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10631,7 +10904,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "Y3")
+					(reference "Y1")
 					(unit 1)
 				)
 			)
@@ -10650,7 +10923,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4f392a15-146c-4b2e-bf9e-7f1e69353cb6")
-		(property "Reference" "R17"
+		(property "Reference" "R14"
 			(at 155.575 210.1851 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10714,7 +10987,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "R17")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -10732,7 +11005,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "50f2daa3-8294-4f70-b7b7-286ceb83e920")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR022"
 			(at 39.37 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -10792,7 +11065,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR033")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -10908,7 +11181,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 			(at 45.085 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -10968,7 +11241,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5666d6e7-96b5-456f-a7b7-c8e9df5332c3")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR018"
 			(at 351.79 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -11028,7 +11301,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR020")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -11046,7 +11319,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5a7951d5-02dd-4e3d-8c3f-bc669c56673e")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR029"
 			(at 58.42 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -11106,7 +11379,89 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR035")
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 222.25 43.18 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5e346bae-b74f-47f9-8b3f-6c07024957dd")
+		(property "Reference" "C4"
+			(at 225.425 41.9099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 225.425 44.4499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 223.2152 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 222.25 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 222.25 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "17694fcb-f2fe-4b90-a540-aab0acea8b4a")
+		)
+		(pin "2"
+			(uuid "dfe96f9a-48de-44ad-9868-93712a56018c")
+		)
+		(instances
+			(project "engine-monitoring-unit"
+				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -11125,7 +11480,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "63741f6e-71af-40a0-8a23-f3c0f34031aa")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR033"
 			(at 153.035 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -11185,7 +11540,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR045")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -11203,7 +11558,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "63e41c5b-cd1e-4282-b28e-4d852ae6b251")
-		(property "Reference" "SW3"
+		(property "Reference" "SW2"
 			(at 114.935 38.0999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11225,7 +11580,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 			(at 108.585 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -11267,7 +11622,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "SW3")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -11285,7 +11640,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "646de78f-a0ea-4068-8c63-939ada0bc3b5")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR043"
 			(at 43.815 278.13 0)
 			(hide yes)
 			(show_name no)
@@ -11345,7 +11700,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR042")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -11363,7 +11718,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "658e36b1-75b8-4ca0-abef-986e921567fe")
-		(property "Reference" "C14"
+		(property "Reference" "C17"
 			(at 343.535 230.5049 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11385,7 +11740,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 340.6902 235.585 0)
 			(hide yes)
 			(show_name no)
@@ -11427,7 +11782,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "C14")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -11445,7 +11800,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "662dace3-e052-49ea-802f-ac10aef6cba9")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR041"
 			(at 349.25 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -11505,7 +11860,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR031")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -11513,7 +11868,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 185.42 52.07 0)
+		(at 182.88 52.07 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11523,8 +11878,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "676f6634-cd4c-4400-a19b-4b87e9cd16d2")
-		(property "Reference" "#PWR07"
-			(at 185.42 58.42 0)
+		(property "Reference" "#PWR09"
+			(at 182.88 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11535,7 +11890,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 185.42 56.515 0)
+			(at 182.88 56.515 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11545,7 +11900,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 185.42 52.07 0)
+			(at 182.88 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11556,7 +11911,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 52.07 0)
+			(at 182.88 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11567,7 +11922,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 185.42 52.07 0)
+			(at 182.88 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11583,15 +11938,15 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR07")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 185.42 43.18 0)
+		(lib_id "power:+3.3V")
+		(at 195.58 31.75 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11600,31 +11955,30 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "6f3ae1b4-8977-41c1-bd78-3aeb990778dc")
-		(property "Reference" "C2"
-			(at 188.595 41.9099 0)
+		(uuid "6959b443-0705-4652-8d90-462a9345c551")
+		(property "Reference" "#PWR02"
+			(at 195.58 35.56 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 188.595 44.4499 0)
+		(property "Value" "+3.3V"
+			(at 195.58 27.305 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 186.3852 46.99 0)
+			(at 195.58 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11635,7 +11989,86 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 43.18 0)
+			(at 195.58 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 195.58 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6e032abd-077b-4c68-8945-742d24868656")
+		)
+		(instances
+			(project "engine-monitoring-unit"
+				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 182.88 43.18 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6f3ae1b4-8977-41c1-bd78-3aeb990778dc")
+		(property "Reference" "C1"
+			(at 186.69 41.9099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4.7uF"
+			(at 186.69 44.4499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 183.8452 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 182.88 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11646,7 +12079,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 185.42 43.18 0)
+			(at 182.88 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11665,7 +12098,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "C2")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -11683,7 +12116,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "73f02b91-ba15-4ce9-9457-566da801c79f")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR037"
 			(at 276.225 212.725 0)
 			(hide yes)
 			(show_name no)
@@ -11743,7 +12176,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR011")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -11783,7 +12216,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal"
 			(at 24.13 141.605 0)
 			(hide yes)
 			(show_name no)
@@ -11921,7 +12354,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8080e0b7-1ae4-4159-af5e-6a65ec9c2763")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR017"
 			(at 226.695 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -11981,7 +12414,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR030")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -11998,7 +12431,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "839b347c-d89f-4448-8512-0fc800cd4b36")
-		(property "Reference" "R8"
+		(property "Reference" "R9"
 			(at 210.82 135.8899 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12020,7 +12453,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 206.502 134.62 90)
 			(hide yes)
 			(show_name no)
@@ -12062,7 +12495,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "R8")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -12080,7 +12513,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8823647c-0668-495d-bfc8-f32d78b49ccf")
-		(property "Reference" "D2"
+		(property "Reference" "D1"
 			(at 298.1325 30.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12100,7 +12533,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 296.545 37.465 0)
 			(hide yes)
 			(show_name no)
@@ -12153,7 +12586,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "D2")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -12171,7 +12604,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "894655c6-02c6-489b-98e8-7f2fcafc15e3")
-		(property "Reference" "D5"
+		(property "Reference" "D4"
 			(at 347.345 216.535 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12255,7 +12688,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "D5")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -12273,7 +12706,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8d00f8b8-d208-471e-bbfd-5c2856c7b0fb")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR021"
 			(at 123.19 131.445 0)
 			(hide yes)
 			(show_name no)
@@ -12333,15 +12766,15 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR023")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 300.355 97.155 0)
+		(lib_id "power:PWR_FLAG")
+		(at 226.695 104.775 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12350,9 +12783,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "8ebae7d3-31e0-4ff8-a2bb-bdbe8ddc7257")
-		(property "Reference" "#PWR010"
-			(at 300.355 100.965 0)
+		(uuid "8e415552-7498-4b12-8e8e-17eab0371e52")
+		(property "Reference" "#FLG02"
+			(at 224.79 104.775 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12362,18 +12795,19 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
-			(at 300.355 92.71 0)
+		(property "Value" "PWR_FLAG"
+			(at 222.885 104.7749 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 300.355 97.155 0)
+			(at 226.695 104.775 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12384,7 +12818,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 300.355 97.155 0)
+			(at 226.695 104.775 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12394,8 +12828,8 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 300.355 97.155 0)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 226.695 104.775 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12406,12 +12840,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "0cac9912-9210-4919-be1a-904de48c5d3d")
+			(uuid "b6835b98-29d3-4e46-a8e2-235585fabfce")
 		)
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR010")
+					(reference "#FLG02")
 					(unit 1)
 				)
 			)
@@ -12429,7 +12863,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9071ecc5-9cc9-4eeb-a62c-047a2de76405")
-		(property "Reference" "C6"
+		(property "Reference" "C14"
 			(at 241.3 182.88 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12439,7 +12873,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "4.7uF"
 			(at 241.3 185.42 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12449,7 +12883,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 245.11 188.8998 0)
 			(hide yes)
 			(show_name no)
@@ -12491,7 +12925,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "C6")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -12509,7 +12943,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9568ae08-3b36-458a-96b9-eab52e042fcd")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR05"
 			(at 56.515 45.085 0)
 			(hide yes)
 			(show_name no)
@@ -12569,7 +13003,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR01")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -12607,7 +13041,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal"
 			(at 111.76 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -12667,7 +13101,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ca8f704-b01e-423b-b941-2e7c347b43fc")
-		(property "Reference" "R16"
+		(property "Reference" "R18"
 			(at 46.355 264.1599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12731,7 +13165,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "R16")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -12749,7 +13183,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ec502e7-3b58-457e-8e17-994f57feb3ce")
-		(property "Reference" "C12"
+		(property "Reference" "C8"
 			(at 132.08 111.1249 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12760,7 +13194,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2uF"
+		(property "Value" "4.7uF"
 			(at 132.08 113.6649 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12771,7 +13205,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 129.8702 116.205 0)
 			(hide yes)
 			(show_name no)
@@ -12813,7 +13247,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "C12")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -12831,8 +13265,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9f0b0863-1201-4223-bb07-db93fdbdcc6e")
-		(property "Reference" "R4"
-			(at 283.21 31.115 90)
+		(property "Reference" "R1"
+			(at 283.21 31.75 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12841,8 +13275,8 @@
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 283.21 33.655 90)
+		(property "Value" "1K"
+			(at 283.21 34.29 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12851,7 +13285,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 283.21 39.243 90)
 			(hide yes)
 			(show_name no)
@@ -12893,7 +13327,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "R4")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -12911,7 +13345,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9fd61791-d1af-472f-a0c5-3ff8c23a1709")
-		(property "Reference" "C15"
+		(property "Reference" "C12"
 			(at 62.23 145.4149 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12933,7 +13367,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 59.3852 150.495 0)
 			(hide yes)
 			(show_name no)
@@ -12975,7 +13409,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "C15")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -12993,7 +13427,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2175b72-3339-493d-a02e-65b427aed91e")
-		(property "Reference" "#FLG02"
+		(property "Reference" "#FLG03"
 			(at 121.285 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -13054,89 +13488,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#FLG02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 213.995 43.18 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a24a4433-25b8-4681-8039-6d0d17c2046b")
-		(property "Reference" "C5"
-			(at 217.17 41.9099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C"
-			(at 217.17 44.4499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 214.9602 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 213.995 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 213.995 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "186271d2-aeca-4e90-b416-b4c237a3bfd6")
-		)
-		(pin "2"
-			(uuid "be85e9f8-b989-47a3-abe5-f13068127563")
-		)
-		(instances
-			(project "engine-monitoring-unit"
-				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "C5")
+					(reference "#FLG03")
 					(unit 1)
 				)
 			)
@@ -13154,7 +13506,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2a877c2-85bb-44e0-b0a2-4a357cfcc87b")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR035"
 			(at 232.41 201.295 0)
 			(hide yes)
 			(show_name no)
@@ -13214,7 +13566,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR012")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -13243,7 +13595,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Air Temperature"
+		(property "Value" "Wheel Speed"
 			(at 119.38 211.4549 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13254,7 +13606,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal"
 			(at 109.22 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -13313,7 +13665,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a4e6e570-3519-43a3-aa5f-3930e00a651d")
-		(property "Reference" "R1"
+		(property "Reference" "R5"
 			(at 38.735 78.1049 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13335,7 +13687,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 34.417 79.375 90)
 			(hide yes)
 			(show_name no)
@@ -13377,7 +13729,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "R1")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -13395,7 +13747,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a4eda300-dead-4b71-834e-544a26aac584")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR014"
 			(at 123.19 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -13455,7 +13807,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR025")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -13474,7 +13826,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a5b7748c-5467-4b55-9939-9f4ef21a8a31")
-		(property "Reference" "C17"
+		(property "Reference" "C15"
 			(at 175.895 196.2151 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13496,7 +13848,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 173.0502 191.135 0)
 			(hide yes)
 			(show_name no)
@@ -13538,7 +13890,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "C17")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -13556,7 +13908,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a819fcab-1009-481c-a121-306bc0aa7a9f")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR015"
 			(at 264.795 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -13616,7 +13968,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR09")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -13633,7 +13985,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ab80eda7-64f5-47a4-bf41-557705896f82")
-		(property "Reference" "C1"
+		(property "Reference" "C5"
 			(at 46.99 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13653,7 +14005,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 43.18 93.6752 0)
 			(hide yes)
 			(show_name no)
@@ -13695,7 +14047,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "C1")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -13791,7 +14143,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad06c6ac-2ae2-4361-8025-e8e3786a56e8")
-		(property "Reference" "R11"
+		(property "Reference" "R16"
 			(at 360.045 230.5049 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13813,7 +14165,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 355.727 231.775 90)
 			(hide yes)
 			(show_name no)
@@ -13855,7 +14207,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "R11")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -13873,7 +14225,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad3e79b0-8bf5-4458-8e68-e63512edff95")
-		(property "Reference" "R10"
+		(property "Reference" "R15"
 			(at 365.125 216.535 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13893,7 +14245,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 365.125 224.663 90)
 			(hide yes)
 			(show_name no)
@@ -13935,7 +14287,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "R10")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -13953,7 +14305,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aedc4a0a-02ce-43ad-9cf4-c4b26d5f7445")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR039"
 			(at 60.325 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -14013,7 +14365,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR038")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -14031,7 +14383,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bc1a54dc-0dc3-4837-b4ed-ae8969d34a66")
-		(property "Reference" "C7"
+		(property "Reference" "C6"
 			(at 373.38 90.17 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14041,7 +14393,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "24pF"
 			(at 373.38 92.71 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14051,7 +14403,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 377.19 96.8248 0)
 			(hide yes)
 			(show_name no)
@@ -14093,7 +14445,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "C7")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -14112,7 +14464,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c2328027-41db-4a4c-a154-07be1ef663a2")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR034"
 			(at 172.085 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -14172,7 +14524,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR041")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -14190,7 +14542,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c820e32f-f415-4802-a847-4e0618066d29")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR036"
 			(at 310.515 203.835 0)
 			(hide yes)
 			(show_name no)
@@ -14250,7 +14602,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR032")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -14268,7 +14620,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c8764e40-5dba-4bab-80ef-827448225bcd")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR032"
 			(at 124.46 189.865 0)
 			(hide yes)
 			(show_name no)
@@ -14328,7 +14680,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR043")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -14346,7 +14698,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca56aa31-207b-4a05-95cc-ae50e2fea9fa")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR01"
 			(at 113.665 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -14406,7 +14758,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR04")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -14424,7 +14776,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cdd0257d-297f-4d91-b08b-b1020b12278a")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR03"
 			(at 267.97 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -14484,7 +14836,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR013")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -14502,7 +14854,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf2e79e4-186f-4e74-a84a-5ebca7b6eda7")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR023"
 			(at 219.71 135.255 0)
 			(hide yes)
 			(show_name no)
@@ -14562,7 +14914,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR029")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -14579,7 +14931,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cf6e2984-c4da-4fe1-b531-c7ced0a3b55c")
-		(property "Reference" "R3"
+		(property "Reference" "R2"
 			(at 142.24 43.8149 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14601,7 +14953,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 137.922 42.545 90)
 			(hide yes)
 			(show_name no)
@@ -14643,7 +14995,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "R3")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -14822,7 +15174,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d10aff3e-b799-448e-9e96-29ee26e5084b")
-		(property "Reference" "R15"
+		(property "Reference" "R17"
 			(at 46.355 251.4599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14886,7 +15238,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "R15")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -14904,7 +15256,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d36b1d92-2fa4-4d20-9a28-8ecc651fd15d")
-		(property "Reference" "L2"
+		(property "Reference" "L1"
 			(at 197.485 111.125 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14966,7 +15318,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "L2")
+					(reference "L1")
 					(unit 1)
 				)
 			)
@@ -15115,7 +15467,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 206.502 122.555 90)
 			(hide yes)
 			(show_name no)
@@ -15164,87 +15516,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 399.415 231.775 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "db85ba7a-b326-4a65-b96e-21601e1d4c4a")
-		(property "Reference" "J7"
-			(at 398.145 237.363 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Inductive Sensor Wire"
-			(at 403.225 242.697 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
-			(at 399.415 231.775 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 399.415 231.775 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 399.415 231.775 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "bbb0a9da-a48c-4f61-9a33-59733bd85505")
-		)
-		(pin "1"
-			(uuid "a7ccf37a-e94c-49cf-a819-7cc19696f42a")
-		)
-		(instances
-			(project "engine-monitoring-unit"
-				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "J7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 63.5 95.25 0)
 		(unit 1)
@@ -15256,7 +15527,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df4a06c0-a535-49f4-bb60-de1e420408f0")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR013"
 			(at 63.5 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -15316,7 +15587,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR03")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -15334,7 +15605,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e06fb7b0-2a51-4427-acdc-bd4cd771badf")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR020"
 			(at 128.905 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -15394,7 +15665,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR028")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -15516,7 +15787,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e10f5929-9b4e-4065-908c-b034e0460743")
-		(property "Reference" "C8"
+		(property "Reference" "C9"
 			(at 372.745 109.22 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15526,7 +15797,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "24pF"
 			(at 372.745 111.76 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15536,7 +15807,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 376.555 115.8748 0)
 			(hide yes)
 			(show_name no)
@@ -15578,7 +15849,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "C8")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -15617,7 +15888,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 139.827 110.49 90)
 			(hide yes)
 			(show_name no)
@@ -15677,7 +15948,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e57e9406-5378-494b-af45-a8a1563cfeac")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR038"
 			(at 41.275 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -15737,7 +16008,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR037")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -15755,7 +16026,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6324487-1daa-4967-8d21-c81008010197")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR031"
 			(at 41.275 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -15815,7 +16086,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR036")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -15833,7 +16104,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6446aea-057b-49af-a966-ae8eace9dd94")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR011"
 			(at 349.885 65.405 0)
 			(hide yes)
 			(show_name no)
@@ -15893,7 +16164,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR017")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -15933,7 +16204,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 61.2902 210.185 0)
 			(hide yes)
 			(show_name no)
@@ -15983,7 +16254,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 205.105 43.18 0)
+		(at 208.915 43.18 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15993,8 +16264,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e99b67b2-6313-4f53-9de5-9d645cd71868")
-		(property "Reference" "C4"
-			(at 208.28 41.9099 0)
+		(property "Reference" "C3"
+			(at 212.725 41.9099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16004,8 +16275,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 208.28 44.4499 0)
+		(property "Value" "100nF"
+			(at 212.725 44.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16015,8 +16286,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 206.0702 46.99 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 209.8802 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16027,7 +16298,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.105 43.18 0)
+			(at 208.915 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16038,7 +16309,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 205.105 43.18 0)
+			(at 208.915 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16057,7 +16328,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "C4")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -16075,7 +16346,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed1844bd-aaf7-4dad-85c0-87ffdc99d515")
-		(property "Reference" "R13"
+		(property "Reference" "R10"
 			(at 43.815 190.4999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16097,7 +16368,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 39.497 191.77 90)
 			(hide yes)
 			(show_name no)
@@ -16139,7 +16410,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "R13")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -16157,7 +16428,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f0535e71-cbff-45ad-be41-549ee1a5aed7")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR030"
 			(at 388.62 160.655 0)
 			(hide yes)
 			(show_name no)
@@ -16218,7 +16489,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR022")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -16236,7 +16507,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5440609-a44e-4a2a-ac6f-69c811587445")
-		(property "Reference" "Y1"
+		(property "Reference" "Y2"
 			(at 362.585 147.9549 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16300,7 +16571,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "Y1")
+					(reference "Y2")
 					(unit 1)
 				)
 			)
@@ -16318,8 +16589,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f576d0cf-955d-4f3a-8b8f-df95db919c3b")
-		(property "Reference" "C3"
-			(at 198.755 41.9099 0)
+		(property "Reference" "C2"
+			(at 199.39 41.9099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16329,8 +16600,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 198.755 44.4499 0)
+		(property "Value" "100nF"
+			(at 199.39 44.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16340,7 +16611,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 196.5452 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -16382,7 +16653,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "C3")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -16479,7 +16750,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa51c424-0d75-4f36-8200-09f0e7090359")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR010"
 			(at 312.42 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -16539,7 +16810,7 @@
 		(instances
 			(project "engine-monitoring-unit"
 				(path "/a9d3b11f-88d8-4654-952a-404ab772bc93"
-					(reference "#PWR015")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
