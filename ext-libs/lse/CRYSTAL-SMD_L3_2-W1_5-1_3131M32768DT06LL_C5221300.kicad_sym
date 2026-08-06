@@ -1,0 +1,96 @@
+(kicad_symbol_lib (version 20211014) (generator easyeda2kicad)
+  (symbol "CRYSTAL-SMD_L3_2-W1_5-1" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "U" (id 0) (at 0 0 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "CRYSTAL-SMD_L3_2-W1_5-1" (id 1) (at 0 -2.54 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (symbol "CRYSTAL-SMD_L3_2-W1_5-1_0_1"
+      (polyline
+        (pts
+          (xy 100.3300 -77.9780)
+          (xy 100.3300 -74.4220)
+        )
+        (stroke (width 0.2540) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 102.8700 -77.9780)
+          (xy 102.8700 -74.4220)
+        )
+        (stroke (width 0.2540) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 99.0600 -76.2000)
+          (xy 99.0600 -76.2000)
+        )
+        (stroke (width 0.2540) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 99.0600 -76.2000)
+          (xy 99.0600 -76.2000)
+        )
+        (stroke (width 0.2540) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 99.0600 -76.2000)
+          (xy 100.3300 -76.2000)
+        )
+        (stroke (width 0.2540) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 104.1400 -76.2000)
+          (xy 104.1400 -76.2000)
+        )
+        (stroke (width 0.2540) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 104.1400 -76.2000)
+          (xy 104.1400 -76.2000)
+        )
+        (stroke (width 0.2540) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 104.1400 -76.2000)
+          (xy 102.8700 -76.2000)
+        )
+        (stroke (width 0.2540) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (rectangle (start 101.0920 -74.4220) (end 102.1080 -77.9780)
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+    )
+    (symbol "CRYSTAL-SMD_L3_2-W1_5-1_1_1"
+      (pin passive line (at 96.5200 -76.2000 0) (length 2.5400)
+        (name "1" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+      (pin passive line (at 106.6800 -76.2000 0) (length 2.5400)
+        (name "2" (effects (font (size 1.27 1.27))))
+        (number "2" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+)

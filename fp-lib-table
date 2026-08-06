@@ -1,0 +1,8 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Inductor-6.8uH") (type "KiCad") (uri "${KIPRJMOD}/ext-libs/Inductor-6.8uH") (options "") (descr ""))
+	(lib (name "LMR16006XDDCR") (type "KiCad") (uri "${KIPRJMOD}/ext-libs/LMR16006XDDCR") (options "") (descr ""))
+	(lib (name "Schottky") (type "KiCad") (uri "${KIPRJMOD}/ext-libs/Schottky") (options "") (descr ""))
+	(lib (name "lse") (type "KiCad") (uri "${KIPRJMOD}/ext-libs/lse") (options "") (descr ""))
+	(lib (name "CRYSTAL-SMD_4P-L3_2-W2_5-BL_0132M4-8_000F16DTNJL_C19674293") (type "KiCad") (uri "${KIPRJMOD}/ext-libs/hse/CRYSTAL-SMD_4P-L3_2-W2_5-BL_0132M4-8_000F16DTNJL_C19674293") (options "") (descr ""))
+)
