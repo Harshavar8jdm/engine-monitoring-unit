@@ -3947,14 +3947,15 @@
 		(at 123.665 146.085 180)
 		(descr "http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKRK/SKRKAHE020.html")
 		(tags "SMD SMT button")
-		(property "Reference" "SW3"
+		(property "Reference" "RESET"
 			(at 0 -2.75 0)
 			(layer "F.SilkS")
 			(uuid "4f465bf9-9f1f-418c-9e12-42203f86eed0")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
+					(thickness 0.2)
+					(bold yes)
 				)
 			)
 		)
