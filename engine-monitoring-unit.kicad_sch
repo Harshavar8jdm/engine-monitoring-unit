@@ -5416,12 +5416,6 @@
 		(uuid "49def400-029d-47a6-8b3d-659990f9b3eb")
 	)
 	(junction
-		(at 36.83 34.29)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4bf17070-e2a5-49cf-ba7b-b00ca0ca0ef6")
-	)
-	(junction
 		(at 234.95 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5438,6 +5432,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "585daa0b-2347-4ab0-ba41-e2ffcf7585a4")
+	)
+	(junction
+		(at 36.83 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5d4b82da-13fb-42c7-940d-d8807cb3fbf9")
 	)
 	(junction
 		(at 123.19 100.965)
@@ -5612,10 +5612,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fd7e8a70-b172-47a2-867a-09e4b27a662b")
-	)
-	(no_connect
-		(at 297.18 148.59)
-		(uuid "0522a26b-7932-4538-b3bf-52d8daa02a8f")
 	)
 	(no_connect
 		(at 261.62 151.13)
@@ -6024,6 +6020,16 @@
 			(type default)
 		)
 		(uuid "29782968-9dc1-44e6-a8c6-c400c8cb28e7")
+	)
+	(wire
+		(pts
+			(xy 297.18 148.59) (xy 307.34 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b8a032f-12cc-49fc-ae69-9aebdc844aa6")
 	)
 	(wire
 		(pts
@@ -6637,6 +6643,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 34.29) (xy 36.83 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a7bdd7a-f88d-4698-b9b5-fc716f13b218")
+	)
+	(wire
+		(pts
 			(xy 375.92 160.655) (xy 382.27 160.655)
 		)
 		(stroke
@@ -7004,16 +7020,6 @@
 			(type default)
 		)
 		(uuid "96edb852-d323-409d-81fd-a25b65cbc58b")
-	)
-	(wire
-		(pts
-			(xy 33.655 34.29) (xy 36.83 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "999fd03f-f0ba-4f79-8f3f-95a70b2fb37c")
 	)
 	(wire
 		(pts
@@ -8059,6 +8065,17 @@
 		)
 		(uuid "1adb8125-1071-4827-b879-c4ccc686de7d")
 	)
+	(label "PA11"
+		(at 31.75 34.29 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.1588)
+			)
+			(justify right bottom)
+		)
+		(uuid "1fb722b9-bfc2-4c36-b7f9-319ebe7d817f")
+	)
 	(label "PA2"
 		(at 307.975 125.73 180)
 		(effects
@@ -8223,15 +8240,16 @@
 		)
 		(uuid "815e3402-6c56-4fc4-b495-1114f77ba0b7")
 	)
-	(label "PA0"
-		(at 33.655 34.29 0)
+	(label "PA11"
+		(at 307.34 148.59 180)
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.1588)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
-		(uuid "9c3d3908-e435-4dbd-a6ca-505ada339682")
+		(uuid "9cad3e06-624e-49fd-8056-73d7092297c0")
 	)
 	(label "PB6"
 		(at 251.46 163.83 0)
